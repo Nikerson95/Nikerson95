@@ -31,7 +31,7 @@
 
 ###
 
-   <p align="left">Sobre mim...<br><br>- 🔭 Estudante de Analise e Desenvolvimento de Sitemas..<br>- 📚 Focando em aprender SQL,C#,ASP.NET<br>- ⚡ No tempo livre gosto de jogos Eletronicos..</p>
+   <p align="left">Sobre mim...<br><br>- 🔭 Estudante de Analise e Desenvolvimento de Sistemas..<br>- 📚 Focando em aprender SQL,C#,ASP.NET<br>- ⚡ No tempo livre gosto de jogos Eletronicos..</p>
 
 ###
 
